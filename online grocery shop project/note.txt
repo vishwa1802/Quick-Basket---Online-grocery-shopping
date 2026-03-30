@@ -1,0 +1,11 @@
+Admin = http://localhost/Online%20Grocery%20Shopping%20/admin/login.php	
+	admin login username =admin@gmail.com 
+	admin password =12345.
+
+home _page = http://localhost/Online%20Grocery%20Shopping/index.php
+
+database = http://localhost/phpmyadmin/sql.php?server=1&db=grocery&table=feedback&pos=0
+
+
+backend= sql,php
+frontend= css,bootstrap,html
